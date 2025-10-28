@@ -15,7 +15,7 @@ A simple and responsive weather application built with **React** that displays r
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React JS**
 - **OpenWeatherMap API**
@@ -30,3 +30,4 @@ A simple and responsive weather application built with **React** that displays r
    ```bash
    git clone https://github.com/poovesh07/Weather-app.git
    cd Weather-app
+
