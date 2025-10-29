@@ -100,20 +100,40 @@
 }
 
 /* Responsive design */
-@media (max-width: 400px) {
+@media (max-width: 768px) {
+    .weather {
+        width: 80%;
+        padding: 30px;
+    }
+    .temp {
+        font-size: 70px;
+    }
+    .location {
+        font-size: 30px;
+    }
+    .weather-data {
+        gap: 15px;
+    }
+}
+
+/* Mobile Devices */
+@media (max-width: 480px) {
     .weather {
         width: 90%;
         padding: 20px;
     }
     .temp {
-        font-size: 60px;
+        font-size: 55px;
     }
     .location {
-        font-size: 26px;
+        font-size: 24px;
     }
     .weather-data {
         flex-direction: column;
-        gap: 20px;
+        gap: 18px;
         align-items: center;
+    }
+    .main-icon {
+        width: 120px;
     }
 }
