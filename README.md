@@ -2,7 +2,6 @@
 
 A simple and responsive weather application built with **React** that displays real-time weather information and a 5-day forecast using the **OpenWeatherMap API**.
 
----
 
 ##  Features
 
@@ -30,4 +29,5 @@ A simple and responsive weather application built with **React** that displays r
    ```bash
    git clone https://github.com/poovesh07/Weather-app.git
    cd Weather-app
+
 
